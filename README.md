@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Landing Page com Angular</h1>
+<h1 align="center">Projeto Landing Page com Angular 17</h1>
 
 ## ✅ Estruturando o projeto
 
