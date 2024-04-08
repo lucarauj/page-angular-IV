@@ -3,58 +3,18 @@
 ## ✅ Estruturando o projeto
 
 - ng new landing-page
-
-
-
-
-
-
-- ng add @angular/material
-- npm install bootstrap
-- ng g c inicio
-- ng g c login
-- ng g c menu
-- ng g c rodape
-- ng g c detalhes
-- ng g s filme
-- ng g c user
-- ng g s login
-- ng g s auth-guard
-
-<br>
-
-## Dados para teste de login
-
-- https://reqres.in/
-
-```
-email: eve.holt@reqres.in
-password: cityslicka
-```
+- ng g c components/home
+- ng g c header
+- ng g c components/btn-primary
+- ng g c components/newsletter-form
+- ng g s services/newsletter
+- ng g c components/footer
 
 <br>
 
 ## Layout
 
-### Início
-
-<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout1.png" /></p>
-
-### Início
-
-<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout2.png" /></p>
-
-### Detalhes
-
-<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout3.png" /></p>
-
-### Login
-
-<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout4.png" /></p>
-
-### Usuário logado
-
-<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-III/blob/main/src/assets/layout5.png" /></p>
+<p align="left"><img width="900px" src="" /></p>
 
 <br>
 

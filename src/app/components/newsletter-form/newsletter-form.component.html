@@ -1,0 +1,22 @@
+<section class="form-section">
+    <div class="text">
+        <h3>
+            Saiba mais sobre a LK Consultoria
+        </h3>
+        <p>A LK Consultoria é uma empresa líder em consultoria de software, oferecendo soluções inovadoras e personalizadas para atender às necessidades específicas de cada cliente. Sua abordagem centrada no cliente e compromisso com a qualidade os destacam como parceiros confiáveis no mundo da tecnologia.</p>
+    </div>
+    <form [formGroup]="newsletterForm">
+        <label for="nome">Nome</label>
+        <input id="nome" formControlName="nome">
+        <label for="email">Email</label>
+        <input id="email" formControlName="email">
+        <btn-primary 
+        btn-text="Se inscreva" 
+        variant="secondary"
+        (submit)="onSubmit()"
+        [disabled]="!newsletterForm.valid"
+        [loading]="loading()"
+        ></btn-primary>
+    </form>
+    
+</section>

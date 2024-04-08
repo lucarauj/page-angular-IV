@@ -1,0 +1,16 @@
+footer {
+    color: black;
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+a {
+    color: black; 
+    font-weight: lighter;
+}
+
+.hidden-footer {
+    transform: translateY(100%);
+  }
