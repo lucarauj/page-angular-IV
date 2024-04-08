@@ -14,7 +14,7 @@
 
 ## Layout
 
-<p align="left"><img width="900px" src="" /></p>
+<p align="left"><img width="900px" src="https://github.com/lucarauj/page-angular-IV/blob/main/src/assets/lyt1.png" /></p>
 
 <br>
 
